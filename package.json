@@ -1,0 +1,14 @@
+{
+  "name": "budget-web",
+  "version": "0.0.0",
+  "description": "Predictive budgeting",
+  "main": "lib/server.js",
+  "repository": "",
+  "author": "Jesse Granger <jesse_granger@fastmail.com>",
+  "dependencies": {
+    "async": "~0.2.8",
+    "bling": "^0.9.6",
+    "express": "~3.2.4",
+    "socket.io": "~0.9.14"
+  }
+}
